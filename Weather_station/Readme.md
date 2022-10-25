@@ -1,13 +1,14 @@
-#Helper tool
-An application in the console designed to efficiently search for basic information.
+# Weather station
 
-#Brief
-The purpose of this application is to improve the search for basic information, i.e.
-- searching for 2.4GHz (Wifi) and 434-869MHz frequency channels
-- creating ASCII code for eeprom memory
-- ASCII / DEC / HEX number conversion
+# Brief
+The purpose of this project is to create a weather station. This station displays the current temperature and humidity level on the LCD display.
+The temperature level is measured by two independent sensors (digital and analog).
+The design also includes a stopwatch.
+The device configuration can be performed using the S1-S3 buttons.
 
-#Software development
+
+# Software development
 To develop firmware for this project following tools were used:
 
-Visual Studio Code - version 1.72.2
+Arduino IDE
+EAGLE
