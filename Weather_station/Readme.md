@@ -12,3 +12,6 @@ To develop firmware for this project following tools were used:
 
 - Arduino IDE
 - EAGLE
+
+Inline-style: 
+![alt text](https://github.com/Siamian/Arduino-projects/Weather_station/The final result/The final result_01.jpg "Logo Title Text 1")
