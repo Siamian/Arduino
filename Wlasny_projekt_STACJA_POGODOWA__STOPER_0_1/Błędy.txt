@@ -1,8 +1,0 @@
-Błedy i problemy podczas projektu:
-1. Zastosowanie zewnętrznego rezonatora zamiast wewnetzrznego
-2. Wytrawianie płytki na papierze kredowym zamiast foli na zrzutnik ( ligota dworzec kolejowy w sklepie mają)
-3. Brak odwrócenia pinów na gniazdo AVR skutkujące powaznymi problemami. Nastepnymrazem nalerzy zrobic to tak aby umieszczajac gniazdo u gory odpowiednio umiejscowic piny na dole.
-4. pamietac o wyłączniku on/off
-5. wiertając nalezy najpierw wsadzic czubek wiertełka w punkt (kropka wytrawiona w pnie/padzie) i nastepnie wiertac aby otwor nie przesunął się.
-6. przed całym lutowaniem nalezy polakierowac lub odpowiednim preparatem pomalowac płytke gdyz masa łatwo przyswaja cyne i bardzo trudno niej sie potem pozbyc
-7. pdf drukowac bez zrodła/autora bo potem sie całosc delikatnie zmniejsza
