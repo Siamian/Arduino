@@ -10,5 +10,5 @@ The device configuration can be performed using the S1-S3 buttons.
 # Software development
 To develop firmware for this project following tools were used:
 
-Arduino IDE
-EAGLE
+- Arduino IDE
+- EAGLE
