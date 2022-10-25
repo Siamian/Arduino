@@ -1,7 +1,7 @@
 # Blinking RGB LEDs for Christmas_decoration
 
 # Brief
-The purpose of this project is to create a Christmas ornament using RGB LEDs
+The purpose of this project is to create a Christmas ornament using RGB LEDs.
 The duty cycle of the RGB diodes is controlled by PWM
 
 
