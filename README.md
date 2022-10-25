@@ -4,3 +4,7 @@
 
 # Code editor used to write programs:
 - Arduino IDE
+
+# Microcontrollers used:
+- AVR ATmega328-PU
+- AVR ATtiny13A-PU
