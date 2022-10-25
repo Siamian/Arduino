@@ -1,6 +1,6 @@
 # List of Arduino programs:
-- Blinking_RGB_LEDs_for_Christmas_decoration
-- Weather_station
+- Blinking RGB LEDs for Christmas decoration
+- Weather station
 
 # Code editor used to write programs:
 - Arduino IDE
