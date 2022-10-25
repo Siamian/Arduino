@@ -1,6 +1,0 @@
-digitalWrite(0,LOW); // blue l i s
-digitalWrite(1,HIGH); // green l i s
-digitalWrite(2,LOW); // red l i s
-digitalWrite(3,HIGH); //lewa red
-digitalWrite(4,LOW); // lewa green
-delay(500); //opoznienie 1
